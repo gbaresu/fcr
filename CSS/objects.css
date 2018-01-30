@@ -1,0 +1,132 @@
+#NEW_LGE_TABLE td {
+	padding:10px;
+	margin:auto;
+}
+
+.sel_base{
+	background-color:white;
+	border:1px solid black;
+	width:95%;
+	margin:auto;
+	padding:3px;
+}
+
+.TABLE_1{
+	font-size:12px;
+    box-shadow: #AFD6E3 2px #AFD6E3 #AFD6E3;	
+}
+
+.TABLE_1 thead th{
+	background:#AFD6E3;
+	border:0px;
+	padding:20px;
+	border-collapse:collapse;
+}
+.TABLE_1 tr:hover{
+	background-color:#E1E2E3;
+}
+.TABLE_1 td{
+	padding:10px;
+}
+
+#DIN_TABLE{
+	margin:auto;
+}
+
+.SEL_deact{
+	background:grey;
+}
+
+#BAND_DIV{
+	width:99%;
+	margin:0px auto;
+	text-align:center;
+	font-size:16px;
+	padding:10px 5px;
+	font-weight:bold;
+}
+
+.FRAME_DIV{
+	border:2px solid #E6F1F5;
+	margin:5px 0px 15px 0px;
+	padding:10px;
+}
+
+.BUTTON_LOGO{
+	margin:0 auto;
+	width:100px;
+	height:20px;
+	vertical-align:middle;
+	border:1px solid black;
+	padding:4px 8px 2px 1px;
+    box-shadow: 0px 3px 3px #888888;
+}
+.BUTTON_LOGO:hover{
+	cursor:pointer;
+} 
+.BUTTON_LOGO:active{
+    box-shadow: 0px 0px 0px #888888;
+	transform: translateY(4px);
+} 
+.BUTTON_IMG_LOGO{
+	border:0px solid black;	
+	width:20px;
+	height:20px;
+	margin:0px 2px 0px 5px;
+	background-repeat:no-repeat;
+	background-size:17px 17px;
+	float:left;
+}
+.BUTTON_TXT_LOGO{
+	width:60%;
+	float:right;
+}
+
+.padding5px{
+	padding:5px;
+}
+
+#warn_bar{
+	width:100%;
+	background-color:red;
+	color:white;
+	padding:5px;
+	font-weight:bold;
+	text-align:center;
+}
+
+#PROF_container{
+	overflow:hidden;
+	min-height:200px;
+	height:auto;
+	width:98%;
+	border:0px black solid;
+	margin-top:20px auto 0px auto;
+    box-shadow: 0px 0px 4px #888888;
+    padding:10px;
+}
+
+#PROF_table{
+	width:100%;
+	border-collapse:separate;
+	border:0px solid black;
+}
+
+#PROF_table td:first-child{
+	text-decoration:underline;
+}
+#PROF_table td{
+	border:0px solid black;
+	margin:3px;
+	padding:10px;
+}
+
+.PROF_EDIT{
+	cursor:pointer;
+	width:20px;
+	height:20px;
+	background-image:url("../PIC/ICONS/edit.png");
+	background-size:20px 20px;
+	background-repeat:no-repeat;
+	border:0px solid black;
+}

@@ -1,0 +1,55 @@
+#TABLE_TYPE_REG {
+	width:100%;
+	margin:20px auto;
+	padding:10px;
+	font-size:14px;
+}
+
+#NEW_USER_REG{
+	padding-top:22px;
+	border:0px solid black;
+    box-shadow: 0px 3px 3px #888888;
+	margin:-5px auto;
+	width:60%;
+	text-align:center;
+}
+
+#out_reg{
+	font-size:14px;
+}
+
+.separate {
+	padding-bottom:10px;
+}
+
+/* REGISTRATION STUFF*/
+
+#reg_check_uname{
+	color:black;
+	padding:3px;
+}
+#reg_check_pass{
+	color:black;
+	padding:3px;
+}
+#reg_check_email{
+	color:black;
+	padding:3px;
+}
+#reg_button{
+
+}
+
+.bleft{
+	border-left:3px solid white;
+}
+.bright{
+	border-right:3px solid white;
+}
+
+.fleft{
+	float:left;
+}
+.fright{
+	float:right;
+}
